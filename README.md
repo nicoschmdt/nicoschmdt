@@ -18,7 +18,9 @@ I'm a bachelor of Computer Science from [Federal University of Santa Catarina (U
 <a href="mailto:nicoschmdt@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nicoschmdt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
+<div style="display: inline-block">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoschmdt&layout=compact&langs_count=7&theme=radical"/>
+</div>
 <!--
 **nicoschmdt/nicoschmdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
